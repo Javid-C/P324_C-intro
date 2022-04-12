@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\bin\Debug\netcoreapp3.1\P324_CSharpIntro.exe
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\bin\Debug\netcoreapp3.1\P324_CSharpIntro.deps.json
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\bin\Debug\netcoreapp3.1\P324_CSharpIntro.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\bin\Debug\netcoreapp3.1\P324_CSharpIntro.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\bin\Debug\netcoreapp3.1\P324_CSharpIntro.dll
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\bin\Debug\netcoreapp3.1\P324_CSharpIntro.pdb
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\obj\Debug\netcoreapp3.1\P324_CSharpIntro.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\obj\Debug\netcoreapp3.1\P324_CSharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\obj\Debug\netcoreapp3.1\P324_CSharpIntro.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\obj\Debug\netcoreapp3.1\P324_CSharpIntro.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\obj\Debug\netcoreapp3.1\P324_CSharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\obj\Debug\netcoreapp3.1\P324_CSharpIntro.dll
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\obj\Debug\netcoreapp3.1\P324_CSharpIntro.pdb
+C:\Users\Lenovo\source\repos\P324_CSharpIntro\P324_CSharpIntro\obj\Debug\netcoreapp3.1\P324_CSharpIntro.genruntimeconfig.cache
